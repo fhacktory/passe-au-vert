@@ -1,0 +1,9 @@
+[submodule "passe-au-vert-app"]
+	path = passe-au-vert-app
+	url = git://github.com/fhacktory/passe-au-vert-app.git
+[submodule "passe-au-vert-data"]
+	path = passe-au-vert-data
+	url = git://github.com/fhacktory/passe-au-vert-data.git
+[submodule "passe-au-vert-game"]
+	path = passe-au-vert-game
+	url = git://github.com/fhacktory/passe-au-vert-game.git
